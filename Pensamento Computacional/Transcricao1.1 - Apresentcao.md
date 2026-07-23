@@ -1,6 +1,6 @@
 # Apresentando o curso e a trajetória
 
-### Olá! Damos as boas-vindas a este curso. Vamos começar com a nossa audiodescrição.
+#### - Olá! Damos as boas-vindas a este curso. Vamos começar com a nossa audiodescrição.
 
     Audiodescrição: Lucas é uma pessoa branca, com barba e cabelo pretos,
     usa óculos e está nos estúdios da Alura, com uma luz lilás ao fundo e

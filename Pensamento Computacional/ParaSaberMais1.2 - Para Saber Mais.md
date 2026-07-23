@@ -21,4 +21,4 @@ A leitura é indispensável para quem deseja otimizar a rotina de
 estudos com técnicas de produtividade sugeridas e entender com 
 profundidade todos os recursos disponíveis nas Carreiras Alura.
 
-## Boa leitura e bons estudos!
+### Boa leitura e bons estudos!

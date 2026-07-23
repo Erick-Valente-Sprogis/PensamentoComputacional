@@ -12,7 +12,7 @@ Todos esses dispositivos, como um home assistant (assistente doméstico)
 que toca música sob comando, são dispositivos computacionais. Eles são
 computadores que trabalham com aplicações.
 
-### Com isso, o que temos? 
+#### - Com isso, o que temos? 
 
 Temos o uso intensivo da computação em nosso
 cotidiano, seja para lazer, durante atividades físicas, ou mesmo em a
@@ -22,7 +22,7 @@ Chamamos isso de computação pervasiva, uma computação presente e imersa
 nos mais diversos ambientes com os quais lidamos diariamente.
 Caracterizando dispositivos computacionais
 
-### Pensando na computação de maneira mais geral e ampla, o que caracteriza um dispositivo computacional? 
+#### - Pensando na computação de maneira mais geral e ampla, o que caracteriza um dispositivo computacional? 
 
 O que caracteriza, por exemplo,
 um smartphone, um aparelho de videogame, um robô inteligente usado para
@@ -53,7 +53,7 @@ integrados que realizam apenas operações lógico-aritméticas.
 Essas operações são responsáveis pelo processamento dos dados.
 Exemplificando operações lógicas e aritméticas
 
-### O que são operações lógicas e o que são operações aritméticas? 
+#### - O que são operações lógicas e o que são operações aritméticas? 
 
 Vamos começar pelas operações lógicas para termos um entendimento 
 amplo do que acontece dentro de um dispositivo computacional.
@@ -73,13 +73,13 @@ dispositivo computacional que os compara com o valor de referência, que
 definimos como 25 graus Celsius. A partir daí, tomamos a decisão de 
 ligar ou manter desligado o ar-condicionado. 
 
-Esse é um exemplo de uma operação lógica realizada dentro de um 
-dispositivo computacional.
+#### - Esse é um exemplo de uma operação lógica realizada dentro de um 
+#### dispositivo computacional.
 
 Agora, vamos abordar uma operação aritmética. As operações aritméticas são 
 as que mais utilizamos no dia a dia. 
 
-### Por exemplo, ao somar dois valores. 
+#### - Por exemplo, ao somar dois valores. 
 
 Imagine que vamos a uma loja e queremos saber quanto vamos gastar em uma 
 compra. Observamos os itens adicionados à cesta e somamos seus valores, 
@@ -88,8 +88,8 @@ unidades de valor, A mais B será igual a 5. Isso é um exemplo de uma
 operação aritmética, também realizada no processamento dos dados.
 Explorando o desenvolvimento de aplicações e a demanda tecnológica
 
-Agora que sabemos que os computadores processam dados por meio de 
-operações lógicas e aritméticas, surge uma questão: 
+#### - Agora que sabemos que os computadores processam dados por meio de 
+#### operações lógicas e aritméticas, surge uma questão: 
 
 Como conseguimos desenvolver uma diversidade de aplicações, tanto web, 
 que acessamos em desktops e notebooks, quanto mobile, em smartphones? 

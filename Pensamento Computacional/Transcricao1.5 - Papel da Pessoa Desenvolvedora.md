@@ -47,10 +47,11 @@ multidisciplinares para construir a solução. A indústria do software
 é um setor específico, geralmente denominado economia criativa, pois 
 parte da identificação de uma demanda ou problema comum. 
 
-Por exemplo, as pessoas querem saber como está o tráfego na cidade antes de 
-sair de casa para escolher a melhor rota e não se atrasar. Para isso, é 
-necessário construir uma solução computacional, como um aplicativo móvel 
-ou web, que permita acessar informações sobre o tráfego e 
+#### - Por exemplo, as pessoas querem saber como está o tráfego na cidade antes de 
+#### sair de casa para escolher a melhor rota e não se atrasar. 
+
+Para isso, énecessário construir uma solução computacional, como um 
+aplicativo móvel ou web, que permita acessar informações sobre o tráfego e 
 escolher a melhor rota.
 
 ## Colaborando no desenvolvimento de soluções computacionais
@@ -79,11 +80,12 @@ No contexto de um carro, temos toda a parte de conforto interno, como
 a climatização, o volante, os pedais e o sistema de som. Ao mesmo tempo, 
 existe a parte mecânica que atua fortemente em um dos principais objetivos 
 do carro: garantir a locomoção de um grupo de pessoas de um ponto a outro 
-com segurança, confiabilidade e conforto. Cada componente ou subsistema do 
-carro tem uma função específica. O ar-condicionado garante o conforto 
-térmico, os bancos proporcionam conforto físico para as pessoas dentro 
-do carro, e o porta-malas assegura que os pertences possam ser 
-transportados de um ponto a outro. 
+com segurança, confiabilidade e conforto. 
+
+Cada componente ou subsistema do carro tem uma função específica. 
+O ar-condicionado garante o conforto térmico, os bancos proporcionam 
+conforto físico para as pessoas dentro do carro, e o porta-malas assegura 
+que os pertences possam ser transportados de um ponto a outro. 
 
 O motor, por exemplo, fornece a energia e a propulsão necessárias 
 para que o carro se desloque, atuando na transformação energética, 
@@ -116,12 +118,14 @@ operações pertinentes à aplicação. Basicamente, transformamos o que
 chamamos de regras de negócio, ou seja, como a aplicação funcionará 
 no dia a dia. 
 
-Por exemplo, em um editor de texto, se a pessoa usuária digitar uma 
-sequência de letras, isso deve ser registrado no documento de texto 
-aberto, na página e posição do cursor. Isso é uma regra de negócio 
-implementada no back-end.
+#### - Por exemplo, em um editor de texto, se a pessoa usuária digitar uma 
+#### sequência de letras, isso deve ser registrado no documento de texto 
+#### aberto, na página e posição do cursor. 
 
-O front-end é onde as pessoas usuárias interagem com a aplicação. 
+Isso é uma regra de negócio implementada no back-end.
+
+#### - O front-end é onde as pessoas usuárias interagem com a aplicação. 
+
 É a face mais visível do software. No caso do Google Maps, por exemplo, 
 é o mapa com o qual interagimos, os botões e campos onde inserimos 
 informações de origem e destino. O banco de dados é o componente 
@@ -144,10 +148,11 @@ Uma vez que uma aplicação é liberada, trabalhamos constantemente em
 melhorias e atualizações para mantê-la confiável, segura e com novas 
 funcionalidades que atendam às demandas das pessoas usuárias.
 
-Portanto, os softwares são soluções para demandas das pessoas, construídos 
-para elas. 
+#### - Portanto, os softwares são soluções para demandas das pessoas, construídos 
+#### para elas. 
 
-Um exemplo de demanda é pedir comida sem ligar para um restaurante. 
+#### - Um exemplo de demanda é pedir comida sem ligar para um restaurante.
+
 Antes, era necessário procurar um catálogo telefônico, ligar para o 
 restaurante, fazer o pedido e esperar sem muito feedback. Agora, com a 
 demanda, temos uma solução em forma de sistema web ou mobile, que permite 
@@ -155,4 +160,4 @@ realizar pedidos online, verificar o status do pedido e preparar a mesa
 ou a bebida para acompanhar a refeição. Assim, a partir de uma demanda, 
 surge uma ideia e se constrói uma solução. 
 
-### Esse é o mundo do software.
+#### Esse é o mundo do software.
