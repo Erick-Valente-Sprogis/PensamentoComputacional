@@ -1,3 +1,3 @@
 # AluraLearning
 
- - First course: Java SpringBoot
+ - First course: Pensamento Computacional
